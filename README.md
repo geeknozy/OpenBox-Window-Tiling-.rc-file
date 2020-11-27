@@ -1,6 +1,13 @@
 # OpenBox-Window-Tiling-.rc-file
 The following is the xml code to get the window tiling feature on OpenBox Window manager
 
+#Verticle Tiling
+<image>verticle_tile.jpg</image>
+
+#Horizontal Tiling
+<image>horizontal_tile.jpg</image>
+
+
 OpenBox Window manager is highly configurable window manager that can be used on *NIX Operating systems that has capability of replacing an entire desktop environment.
 
 OpenBox by default is a floating window manager, and have no tiling feature keybinding enabled by default and has the .rc file written and can be edited using xml.
