@@ -21,13 +21,13 @@ Step 3: Open rc.xml (on vanilla OpenBox Session) or lxqt-rc.xml file on LXQT Des
 
 NOTE: Im using nano code editor replace your code editor name when you execute the command 
 
-Step 4: find the <keyboard> section and go to the end of <keyboard> ie: </keyboard> section.
+Step 4: Find the <keyboard> section and go to the end of ```<keyboard>``` ie: ```</keyboard>``` section.
 
 Step 5: Just above </keyboard> paste my configuration code given above.
 
 Step 6: Save and exit the .xml file
 
-Step 7: type the following command for changes to take place on the terminal.
+Step 7: Type the following command for changes to take place on the terminal.
 
 ```openbox --reconfigure```
 
