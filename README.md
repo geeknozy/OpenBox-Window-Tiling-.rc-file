@@ -43,6 +43,6 @@ Key Bindings are as follows
 ```CTRL + WINDOWS_KEY + BOTTOM_ARROW```
 
 4. Upper half tiling horizontally
-```CTRL + WINDOWS_KEY + UPPER_ARROW
+```CTRL + WINDOWS_KEY + UPPER_ARROW```
 
 NOTE: If you are using keybindings that are already in use you may encounter errors change the xml code accordingly.
