@@ -2,7 +2,7 @@
         Keybindings for window tiling
     -->
     <!--
-        # HalfLeftScreen
+        # Left-Half-Screen-Tiling
     -->
   <keybind key="C-W-Left">
     <action name="UnmaximizeFull"/>
@@ -14,7 +14,7 @@
     </action>
   </keybind>
     <!--
-        # HalfRightScreen
+        # Right-Half-Screen-Tiling
     -->
   <keybind key="C-W-Right">
     <action name="UnmaximizeFull"/>
@@ -26,7 +26,7 @@
     </action>
   </keybind>
     <!--
-        # HalfUpperScreen
+        # Upper-Half-Screen-Tiling
     -->
   <keybind key="C-W-Up">
     <action name="UnmaximizeFull"/>
@@ -38,7 +38,7 @@
     </action>
   </keybind>
     <!--
-        # HalfLowerScreen
+        # Lower-Half-Screen-Tiling
     -->
   <keybind key="C-W-Down">
     <action name="UnmaximizeFull"/>
@@ -50,4 +50,4 @@
     </action>
   </keybind>
   
- <!--End of window tiling-->
+ <!--End of KeyBindings for Window Tiling-->
