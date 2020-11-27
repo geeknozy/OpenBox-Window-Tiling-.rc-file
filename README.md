@@ -1,4 +1,4 @@
-# OpenBox-Window-Tiling-.rc-file
+# Window Tiling on OpenBox Window Manager
 The following is the xml code to get the window tiling feature on OpenBox Window manager
 
 #Verticle Tiling
