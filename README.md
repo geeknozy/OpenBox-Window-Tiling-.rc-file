@@ -2,10 +2,10 @@
 The following is the xml code to get the window tiling feature on OpenBox Window manager
 
 #Verticle Tiling
-<image>verticle_tile.jpg</image>
+<image>https://raw.githubusercontent.com/geeknozy/OpenBox-Window-Tiling-.rc-file/main/verticle_tile.jpg</image>
 
 #Horizontal Tiling
-<image>horizontal_tile.jpg</image>
+<image>https://raw.githubusercontent.com/geeknozy/OpenBox-Window-Tiling-.rc-file/main/horizontal_tile.jpg</image>
 
 
 OpenBox Window manager is highly configurable window manager that can be used on *NIX Operating systems that has capability of replacing an entire desktop environment.
