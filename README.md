@@ -17,7 +17,7 @@ Follow along this steps to get the tiling window feature.
 Step 1 : Open your favourite terminal and type 
 
 ```
-/home/username/.config/openbox
+cd /home/yourusername/.config/openbox
 ```
 
 Step 2: list all the files
