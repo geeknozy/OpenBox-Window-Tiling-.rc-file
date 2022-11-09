@@ -46,20 +46,22 @@ Step 6: Save and exit the .xml file
 
 Step 7: Type the following command for changes to take place on the terminal.
 
-```openbox --reconfigure```
+```
+openbox --reconfigure
+```
 
 Key Bindings are as follows
 
-1. Left half tiling vertically
-```CTRL + WINDOWS_KEY + LEFT_ARROW```
+1. Left half tiling vertically <br/>
+```CTRL + WINDOWS_KEY + LEFT_ARROW``` <br/>
 
-2. Right half tiling vertically
-```CTRL + WINDOWS_KEY + RIGHT_ARROW```
+2. Right half tiling vertically <br/>
+```CTRL + WINDOWS_KEY + RIGHT_ARROW``` <br/>
 
-3. Bottom half tiling horizontally
-```CTRL + WINDOWS_KEY + BOTTOM_ARROW```
+3. Bottom half tiling horizontally <br/>
+```CTRL + WINDOWS_KEY + BOTTOM_ARROW``` <br/>
 
-4. Upper half tiling horizontally
-```CTRL + WINDOWS_KEY + UPPER_ARROW```
+4. Upper half tiling horizontally <br/>
+```CTRL + WINDOWS_KEY + UPPER_ARROW``` <br/>
 
 NOTE: If you are using keybindings that are already in use you may encounter errors change the xml code accordingly.
