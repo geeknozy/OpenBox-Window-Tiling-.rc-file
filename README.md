@@ -16,17 +16,27 @@ Follow along this steps to get the tiling window feature.
 
 Step 1 : Open your favourite terminal and type 
 
-```/home/username/.config/openbox```
+```
+/home/username/.config/openbox
+```
 
 Step 2: list all the files
 
-```ls -a```
+```
+ls -a
+```
 
-Step 3: Open rc.xml (on vanilla OpenBox Session) or lxqt-rc.xml file on LXQT Desktop Environment with OpenBox Window Manager with your favourite code editor.
+Step 3: Open rc.xml (on vanilla OpenBox Session) or lxqt-rc.xml file on LXQT Desktop Environment with OpenBox Window Manager.
 
-```sudo nano rc.xml```
+for openbox type below command
+```
+sudo nano rc.xml
+```
 
-NOTE: Im using nano code editor replace your code editor name when you execute the command 
+for lxqt with openbox type 
+```
+sudo nano lxqt-rc.xml
+```
 
 Step 4: Find the <keyboard> section and go to the end of ```<keyboard>``` ie: ```</keyboard>``` section.
 
